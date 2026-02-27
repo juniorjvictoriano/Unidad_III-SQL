@@ -1,0 +1,25 @@
+C:\Users\HP\source\repos\EjercicioBaseDeDatosWinForm\EjercicioBaseDeDatosWinForm\bin\Debug\EjercicioBaseDeDatosWinForm.exe.config
+C:\Users\HP\source\repos\EjercicioBaseDeDatosWinForm\EjercicioBaseDeDatosWinForm\bin\Debug\EjercicioBaseDeDatosWinForm.exe
+C:\Users\HP\source\repos\EjercicioBaseDeDatosWinForm\EjercicioBaseDeDatosWinForm\bin\Debug\EjercicioBaseDeDatosWinForm.pdb
+C:\Users\HP\source\repos\EjercicioBaseDeDatosWinForm\EjercicioBaseDeDatosWinForm\obj\Debug\EjercicioBaseDeDatosWinForm.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\EjercicioBaseDeDatosWinForm\EjercicioBaseDeDatosWinForm\obj\Debug\EjercicioBaseDeDatosWinForm.Properties.Resources.resources
+C:\Users\HP\source\repos\EjercicioBaseDeDatosWinForm\EjercicioBaseDeDatosWinForm\obj\Debug\EjercicioBaseDeDatosWinForm.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\EjercicioBaseDeDatosWinForm\EjercicioBaseDeDatosWinForm\obj\Debug\EjercicioBaseDeDatosWinForm.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\EjercicioBaseDeDatosWinForm\EjercicioBaseDeDatosWinForm\obj\Debug\EjercicioBaseDeDatosWinForm.exe
+C:\Users\HP\source\repos\EjercicioBaseDeDatosWinForm\EjercicioBaseDeDatosWinForm\obj\Debug\EjercicioBaseDeDatosWinForm.pdb
+C:\Users\HP\source\repos\EjercicioBaseDeDatosWinForm\EjercicioBaseDeDatosWinForm\obj\Debug\EjercicioBaseDeDatosWinForm.MenuPrincipal.resources
+C:\Users\HP\source\repos\EjercicioBaseDeDatosWinForm\EjercicioBaseDeDatosWinForm\obj\Debug\EjercicioBaseDeDatosWinForm.Personas.resources
+C:\Users\HP\source\repos\EjercicioBaseDeDatosWinForm\EjercicioBaseDeDatosWinForm\obj\Debug\EjercicioBaseDeDatosWinForm.Productos.resources
+C:\Users\Junior\Desktop\ejemplo_cap4\EjercicioBaseDeDatosWinForm (1)\EjercicioBaseDeDatosWinForm\EjercicioBaseDeDatosWinForm\bin\Debug\EjercicioBaseDeDatosWinForm.exe.config
+C:\Users\Junior\Desktop\ejemplo_cap4\EjercicioBaseDeDatosWinForm (1)\EjercicioBaseDeDatosWinForm\EjercicioBaseDeDatosWinForm\bin\Debug\EjercicioBaseDeDatosWinForm.exe
+C:\Users\Junior\Desktop\ejemplo_cap4\EjercicioBaseDeDatosWinForm (1)\EjercicioBaseDeDatosWinForm\EjercicioBaseDeDatosWinForm\bin\Debug\EjercicioBaseDeDatosWinForm.pdb
+C:\Users\Junior\Desktop\ejemplo_cap4\EjercicioBaseDeDatosWinForm (1)\EjercicioBaseDeDatosWinForm\EjercicioBaseDeDatosWinForm\obj\Debug\EjercicioBaseDeDatosWinForm.csproj.AssemblyReference.cache
+C:\Users\Junior\Desktop\ejemplo_cap4\EjercicioBaseDeDatosWinForm (1)\EjercicioBaseDeDatosWinForm\EjercicioBaseDeDatosWinForm\obj\Debug\EjercicioBaseDeDatosWinForm.exe.config
+C:\Users\Junior\Desktop\ejemplo_cap4\EjercicioBaseDeDatosWinForm (1)\EjercicioBaseDeDatosWinForm\EjercicioBaseDeDatosWinForm\obj\Debug\EjercicioBaseDeDatosWinForm.Productos.resources
+C:\Users\Junior\Desktop\ejemplo_cap4\EjercicioBaseDeDatosWinForm (1)\EjercicioBaseDeDatosWinForm\EjercicioBaseDeDatosWinForm\obj\Debug\EjercicioBaseDeDatosWinForm.Personas.resources
+C:\Users\Junior\Desktop\ejemplo_cap4\EjercicioBaseDeDatosWinForm (1)\EjercicioBaseDeDatosWinForm\EjercicioBaseDeDatosWinForm\obj\Debug\EjercicioBaseDeDatosWinForm.MenuPrincipal.resources
+C:\Users\Junior\Desktop\ejemplo_cap4\EjercicioBaseDeDatosWinForm (1)\EjercicioBaseDeDatosWinForm\EjercicioBaseDeDatosWinForm\obj\Debug\EjercicioBaseDeDatosWinForm.Properties.Resources.resources
+C:\Users\Junior\Desktop\ejemplo_cap4\EjercicioBaseDeDatosWinForm (1)\EjercicioBaseDeDatosWinForm\EjercicioBaseDeDatosWinForm\obj\Debug\EjercicioBaseDeDatosWinForm.csproj.GenerateResource.cache
+C:\Users\Junior\Desktop\ejemplo_cap4\EjercicioBaseDeDatosWinForm (1)\EjercicioBaseDeDatosWinForm\EjercicioBaseDeDatosWinForm\obj\Debug\EjercicioBaseDeDatosWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Junior\Desktop\ejemplo_cap4\EjercicioBaseDeDatosWinForm (1)\EjercicioBaseDeDatosWinForm\EjercicioBaseDeDatosWinForm\obj\Debug\EjercicioBaseDeDatosWinForm.exe
+C:\Users\Junior\Desktop\ejemplo_cap4\EjercicioBaseDeDatosWinForm (1)\EjercicioBaseDeDatosWinForm\EjercicioBaseDeDatosWinForm\obj\Debug\EjercicioBaseDeDatosWinForm.pdb
